@@ -1,3 +1,3 @@
 # Parlarispa API
 
-Endpoint principal ´https://parlarispa.com/api/v2´.  
+Endpoint principal `https://parlarispa.com/api/v2`.  
